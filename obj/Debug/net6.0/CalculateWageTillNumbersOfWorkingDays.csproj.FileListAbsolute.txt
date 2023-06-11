@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\bin\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\bin\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\bin\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\bin\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\bin\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\refint\CalculateWageTillNumbersOfWorkingDays.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\CalculateWageTillNumbersOfWorkingDays.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculateWageTillNumbersOfWorkingDays\obj\Debug\net6.0\ref\CalculateWageTillNumbersOfWorkingDays.dll
